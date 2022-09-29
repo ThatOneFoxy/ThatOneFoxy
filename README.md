@@ -1,0 +1,3 @@
+- I'm Foxy
+- I code some stuff for fun
+- I'm still trying to learn javascript lmao
