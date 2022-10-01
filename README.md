@@ -1,3 +1,3 @@
 - I'm Foxy
 - I code some stuff for fun
-- I'm still trying to learn javascript lmao
+- I'm still trying to learn java & javascript lmao
