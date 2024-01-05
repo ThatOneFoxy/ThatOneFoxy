@@ -1,3 +1,2 @@
 - I'm Foxy
-- I code some stuff for fun
-- I'm still trying to learn java & javascript lmao
+- I code stuff for fun but you will probably just see paradox modding on my profile
