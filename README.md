@@ -1,2 +1,2 @@
 - Hello There 👋
-- My name is Foxy,
+- My name is Foxy
